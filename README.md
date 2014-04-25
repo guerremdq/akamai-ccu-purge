@@ -12,3 +12,6 @@ Just a simple script to flush Akamai Cache
 	python purge.py -U username@foobar.org -P superSecurePassword -c CPCODE
 
 
+# Documentation	
+
+	https://api.ccu.akamai.com/ccu/v2/docs/index.html
